@@ -1,0 +1,18 @@
+This agreement is intended to help establish and maintain clear expectations regarding work during the Hackathon. It should be considered a living document that is revisited regularly and revised as needed.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Work hours,MA - hackathon hours,BY: hack hours,,,,,,,,,,,
+ChatGPT?,"IB - no problem with using ChatGPT
+MA - supportive of using ChatGPT","MG- not problem using it
+BY: great idea but no experience yet
+",,,,,,,,,,,
+,,,,,,,,,,,,,
+I commit to contribute:,,,,,,,,,,,,,
+Name,EDS field,EDS theory,EDS coding_time series,EDS coding_spatial data,AI theory,AI coding,TEK,Data synthesis,Outreach/community engagement,Figures,Slides,Project presentation,Other
+,,,,,,,,,,,,,
+Yanle Lu,urban climate,,didn't focus on the trend of time series,analyze radar data & numerical simulation data,familiar with supervised machine learning,Python,not familiar,Matlab & Python,,matplot,PowerPoint,,
+Matt Austin,global change ecology,frequentist & some Bayesian,"simulation modeling, regression",some R-based geospatial analysis,familiar with supervised ML theory,some Python,love learning about TEK!,R & Python,"talks, educational materials",ggplot,PowerPoint - can make okay slides given enough time,"collaborative presentation?
+comfortable with presenting",
+Preetika Kaur,snow hydrology,,,,,some Python,,Python,,matplotlib,powerpoint,sharepoint,
+Brian Yandell,stats & data science,stats & data science,R/Rstudio/Shiny,some tidyverse geospatial (Data Carpentry course),through stats theory,"no experience directly, except via variety of stats tools; attending session next week on tidymodels.org",through collaboration with Indigenous data scientists with members of a few Tribes--early days,R,collaboration in ESIIL working group with proposal on Lakota Earth Data Sciences,ggplot,google slides (can no longer read PPT since retirement),happy to collaborate,
+Ian Breckheimer,landscape ecology,Bayesian data analysis,"Basics in R: aggregation, smoothing, etc","R: Terra, SF, vector and raster data.",,"R: Comfortable with tree-based methods, SVM, regression. Model evaluation and comparison, ensembling","not much familiarity, except some reading",Multi-source data product development.,,Love data viz!,"Hate Powerpoint, still use Powerpoint",Not available Friday morning.,
+Maria Graziotto,Ocean data science,,Pontual data,SAR images process in python,not much,,none experience ,Python,,matplot/ leafmap,Powerpoint,Can collaborate,
